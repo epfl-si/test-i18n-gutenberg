@@ -1,0 +1,21 @@
+{
+    "translation-revision-date": "2019-07-08 15:13+0200",
+    "generator": "WP-CLI\/2.2.0",
+    "source": "src\/block\/block.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "fr",
+                "plural-forms": "nplurals=2; plural=(n > 1);"
+            },
+            "gutenberg EN": [
+                "gutenberg FR"
+            ],
+            "greg EN": [
+                "greg FR"
+            ]
+        }
+    }
+}
